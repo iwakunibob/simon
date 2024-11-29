@@ -33,7 +33,7 @@ function checkAnswer(currentLevel) {
     } else {
         playSound("wrong");
         $("body").addClass("game-over");
-        $("#level-title").text("Game Over, Press HERE to Restart");
+        $("#level-title").text("Game Over, Press HERE");
         setTimeout(function () {
             $("body").removeClass("game-over");
         }, mSec*2);

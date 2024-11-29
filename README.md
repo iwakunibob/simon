@@ -1,2 +1,2 @@
 # simon
-Simon Game
+Simon Game is a memory game

@@ -1,5 +1,5 @@
 let buttonColors = ["red", "blue", "green", "yellow"]
-let mSec = 200
+let mSec = 125
 let gamePattern = [];
 let userClkPattern = [];
 let started = false;
